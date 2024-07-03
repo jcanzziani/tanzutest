@@ -6,7 +6,7 @@ metadata:
 spec:
   build:
     buildpacks: {}
-    path: ..\..
+    path: ../..
   ports:
   - name: main
     port: 8080
